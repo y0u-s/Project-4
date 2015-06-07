@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">SmartButton</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="counter">Ewa</string>
+    <string name="button_text">Click me</string>
+    <string name="links">Links</string>
+    <string name="rechts">Rechts</string>
+    <string name="boven">Boven</string>
+    <string name="onder">Onder</string>
+    <string name="Vraag1">Aan welke kant zit de opening? </string>
+    <string name="vraagCounter">Vraag 1/11</string>
+    <string name="volgende">Volgende</string>
+</resources>
